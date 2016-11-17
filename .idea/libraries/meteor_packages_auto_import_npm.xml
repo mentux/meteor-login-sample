@@ -1593,6 +1593,12 @@
         <item url="file://$USER_HOME$/.meteor/packages/es5-shim/4.6.15/npm/node_modules/es5-shim/es5-shim.js" />
         <item url="file://$USER_HOME$/.meteor/packages/es5-shim/4.6.15/npm/node_modules/es5-shim/es5-sham.js" />
         <item url="file://$USER_HOME$/.meteor/packages/es5-shim/4.6.15/npm/node_modules/es5-shim/es5-shim.min.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/index.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/read.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/raw.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/text.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/json.js" />
+        <item url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/urlencoded.js" />
         <item url="file://$USER_HOME$/.meteor/packages/logging/1.1.16/npm/node_modules/cli-color/lib/trim.js" />
         <item url="file://$USER_HOME$/.meteor/packages/logging/1.1.16/npm/node_modules/cli-color/lib/_xterm-match.js" />
         <item url="file://$USER_HOME$/.meteor/packages/logging/1.1.16/npm/node_modules/cli-color/lib/index.js" />
@@ -6629,6 +6635,12 @@
       <root url="file://$USER_HOME$/.meteor/packages/es5-shim/4.6.15/npm/node_modules/es5-shim/es5-shim.js" />
       <root url="file://$USER_HOME$/.meteor/packages/es5-shim/4.6.15/npm/node_modules/es5-shim/es5-sham.js" />
       <root url="file://$USER_HOME$/.meteor/packages/es5-shim/4.6.15/npm/node_modules/es5-shim/es5-shim.min.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/index.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/read.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/raw.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/text.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/json.js" />
+      <root url="file://$USER_HOME$/.meteor/packages/iron_router/1.0.13/npm/node_modules/body-parser/lib/types/urlencoded.js" />
       <root url="file://$USER_HOME$/.meteor/packages/logging/1.1.16/npm/node_modules/cli-color/lib/trim.js" />
       <root url="file://$USER_HOME$/.meteor/packages/logging/1.1.16/npm/node_modules/cli-color/lib/_xterm-match.js" />
       <root url="file://$USER_HOME$/.meteor/packages/logging/1.1.16/npm/node_modules/cli-color/lib/index.js" />

@@ -2,17 +2,20 @@
     <title>MeteorJS Login/Register Sample</title>
 </head>
 <body>
-{{#if currentUser}}
-    {{> dashboard}}
-{{else}}
-    {{> register}}
-    {{> login}}
-{{/if}}
+<h1>Login/Register Sample</h1>
+{{> navegacao}}
+{{> yield}}
+<hr />
+<p>Copyright &copy; Login/Register Sample, 2016.</p>
 
 </body>
 
+<template name="opcoes">
+    <button data-toggle="collapse" data-target="#registrar" class="btn btn-default">Efetuar Registro</button>
+    <button data-toggle="collapse" data-target="#logar"  class="btn btn-default">Efetuar Login</button>
+</template>
+
 <template name="register">
-    <button data-toggle="collapse" data-target="#registrar">Efetuar Registro</button>
     <div class="container collapse" id="registrar">
         <div class="row">
             <div class="col-sm-6 col-md-4 col-md-offset-4">
@@ -33,7 +36,6 @@
 </template>
 
 <template name="login">
-    <button data-toggle="collapse" data-target="#logar">Efetuar Login</button>
     <div class="container collapse" id="logar">
         <div class="row">
             <div class="col-sm-6 col-md-4 col-md-offset-4">
